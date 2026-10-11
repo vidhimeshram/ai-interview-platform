@@ -21,6 +21,8 @@ cd backend
 npm install
 # create .env using .env.example
 npm run dev
+<img width="1440" height="900" alt="frontend-preview" src="https://github.com/user-attachments/assets/1668e616-b53b-4879-b09d-c6fa317719bb" />
+
 
 ### Frontend
 cd frontend
